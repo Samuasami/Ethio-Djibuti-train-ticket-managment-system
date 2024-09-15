@@ -1,0 +1,104 @@
+name: book_train_ticket
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  fluentui_icons: ^1.0.0
+  get:
+  gap: ^3.0.1
+  font_awesome_flutter: ^9.1.0
+  http:
+  shimmer: ^2.0.0
+  intl: ^0.17.0
+  firebase_core: ^2.24.0
+  cloud_firestore: ^4.13.2
+  url_launcher: ^6.0.0
+  chapasdk: ^0.0.6
+  flutter_inappwebview: ^5.4.3+7
+  connectivity_plus: ^2.3.6+1
+  fluttertoast: ^8.0.9
+  nb_utils: ^4.6.22
+  animated_splash_screen: ^1.3.0
+  awesome_notifications: ^0.7.4+1
+  flutter_local_notifications: ^12.0.0
+  shared_preferences: ^2.0.0
+  flutter_rating_bar: ^4.0.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: "^0.13.1"
+
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image: "image/EDR.png"
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - image/image1.jpg
+    - image/image2.jpg
+    - image/image3.jpg
+    - image/image4.jpg
+    - image/imag5.jpg
+    - image/image6.jpg
+    - image/image7.jpg
+    - image/image8.jpg
+    - image/image9.jpg
+    - image/image10.jpg
+    - image/image11.jpg
+    - image/image12.jpg
+    - image/Abby.png
+    - image/nib.png
+    - image/wega.png
+    - image/cbe.jpg
+    - image/amhara.png
+    - image/apolo.jpg
+    - image/awashlogo.png
+    - image/coop.png
+    - image/Dashen.jpg
+    - image/mpesa.png
+    - image/telebirr.jpg
+    - image/abay.png
+    - image/birhan.png
+    - image/ebirr.png
+    - image/ebirr.png
+    - image/zemen.png
+    - image/hibret.jpg
+    - image/EDR.png
+    - image/try.jpg
+    - image/ChapaLogo.png
+    - image/img.png
